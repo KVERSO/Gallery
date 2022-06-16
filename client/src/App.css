@@ -1,0 +1,72 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+
+}
+
+body {
+  background: #DE5959;
+}
+
+
+.main {
+  position: relative;
+  width: 100%;
+  width:1800px;
+  height: 100%;
+/* height: 1080px; */
+
+}
+
+.progress_box {
+  width: 38%;
+  height: 10%;
+  margin: 0 auto;
+  margin-top: 11%;
+  /* position: absolute;
+  top: 50%;
+  left: 17%; */
+  background: #FFFFFF;
+  border-radius: 28px;
+  line-height: 59px;
+}
+
+.progress {
+  width: 355px;
+  height: 46px;
+  margin-left: 10px;
+  background: #94E1C5;
+  border-radius: 28px;
+}
+
+.img1 {
+  /* display: block; */
+  /* position: absolute; */
+  width: 52%;
+  /* margin:0 auto; */
+  margin-left: 32%;
+  margin-top: 15%;
+  /* right: 451px; */
+  /* left: 800px; */
+  /* top: 18%;
+  left:25%; */
+  /* background-color: #f0f; */
+  /* display: flex; */
+}
+.img_child1{
+  /* height: 100%; */
+  height: 166px;
+  width: 100px;
+  background-color: aqua;
+}
+.img_child2{
+  /* width:35%;
+  height:31%; */
+  /* background:#09f; */
+}
+.aaa{
+  width:65%;
+  height:100%;
+  /* background:#09f; */
+}
